@@ -2,7 +2,7 @@
 
 
 # Budget-Tracker
-Budget Tracker application to allow for offline access and functionality
+Budget Tracker is a PWA (Progressive Web Application) to allow for offline access and functionality and then once back online, the transactions are added to the tracker.
 
 ## Table of Contents
   - [Installation](#Installation)

@@ -1,8 +1,11 @@
 {
   "name": "budget-tracker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Budget Tracker PWA with Mongo, Node, Express",
   "main": "server.js",
+  "engines": {
+    "node": "14.2.x"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
@@ -12,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/allaroundd/Budget-Tracker.git"
+    "url": "git+https://github.com/AllAroundD/Budget-Tracker.git"
   },
   "author": "Doug Moore",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/allaroundd/Budget-Tracker/issues"
+    "url": "https://github.com/AllAroundD/Budget-Tracker/issues"
   },
-  "homepage": "https://github.com/allaroundd/Budget-Tracker#readme",
+  "homepage": "https://github.com/AllAroundD/Budget-Tracker#readme",
   "dependencies": {
     "compression": "^1.7.4",
     "dotenv": "^8.2.0",
